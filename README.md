@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayesh Eknath Sabale</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayeshSabale&label=Visitors&color=0e75b6&style=flat" alt="jayeshSabale" />
+</p>
 
-<!--
-**JayeshSabale/JayeshSabale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 My GitHub Statistics 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshSabale&show_icons=true&theme=radical" alt="Jayesh's GitHub stats" />
+</p>
+
+---
+
+## 🔥 My Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshSabale&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshSabale&layout=compact&theme=radical" alt="Top Languages" />
+</p>
