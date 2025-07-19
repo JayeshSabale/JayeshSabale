@@ -23,7 +23,7 @@
 ## 🛠️ Skills & Technologies
 
 ```bash
-💻 Languages:        JavaScript, TypeScript, Python, C++
+💻 Languages:        JavaScript, TypeScript, Python
 🌐 Frontend:         React.js, Next.js, HTML, Tailwind CSS, Bootstrap
 🛠️ Backend:          Node.js, Express.js, REST APIs, GraphQL, Microservices
 🗃️ Database:         MongoDB, Firebase, MySQL
