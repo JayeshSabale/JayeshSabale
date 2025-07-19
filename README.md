@@ -30,4 +30,44 @@
 ☁️ Cloud & DevOps:   AWS, Docker, Kubernetes, CI/CD (GitHub Actions, Render, Netlify)
 🧰 Tools & Platforms: Git, GitHub, Postman, Vercel
 🎨 UI/UX:            Figma, Canva, Responsive Web Design
+```
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshSabale&show_icons=true&theme=radical" alt="Jayesh's GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jayeshSabale&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshSabale&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:jayeshsabale23@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jayeshsabale"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/jayesh__sabale"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://ibelieve-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+> ✨ *“Build things you’re proud of.”*
+> 
