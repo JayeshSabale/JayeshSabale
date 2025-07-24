@@ -41,11 +41,14 @@
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayeshSabale&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
-</p>
+  <a href="https://github.com/avinashbest/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshSabale&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>  </br>
 
 ---
 
