@@ -45,8 +45,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JayeshSabale" alt="GitHub Streak" /></a>
- </p>  </br>
+  <img src="https://streak-stats.demolab.com?user=jayeshSabale&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
 
 ---
 
