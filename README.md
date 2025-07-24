@@ -60,11 +60,6 @@
 
 ---
 
-<br>
-
-<p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jayeshSabale}/count.svg" /></p> 
-</br>
 
 ## 🌐 Connect with Me
 
