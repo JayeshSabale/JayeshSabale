@@ -44,16 +44,12 @@
 
 ## 🔥 GitHub Streak
 
-
-
-<h2 align="center">My contribution Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/avinashbest/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshSabale&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  </br>
 
-<br>
 ---
 
 ## 🧠 Top Languages
